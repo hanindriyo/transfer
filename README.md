@@ -1,5 +1,2 @@
-# transfer
-file transfer to youmono or unified from fep server login..
-
-#gewin branch
+# gewin
 This branch contains files for Gewinner S.C.Senderanto Sinaga
